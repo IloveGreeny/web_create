@@ -1,11 +1,9 @@
 import Header from "./Head";
-import Body from "./Body";
 import Footer from "./Footer";
 import {BrowserRouter as Router, Link, Route, Routes} from "react-router-dom";
 import Main from "./Main";
 import Contact from "./Contact";
 import Product from "./Product";
-import Products from "./Products";
 import Residence from "./Residence";
 
 
