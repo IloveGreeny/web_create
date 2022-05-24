@@ -19,7 +19,7 @@ export default function App() {
                   <Link to="header"></Link>
                   <Link to="contact"></Link>
                   <Link to="products"></Link>
-                  <Link to="web_create/product"></Link>
+                  <Link to="product2"></Link>
               </nav>
               <Routes>
                   <Route path="/web_create/products" element={<Main/>}/>
@@ -27,7 +27,7 @@ export default function App() {
                   <Route path="/web_create/footer" element={<Footer/>}/>
                   <Route path="/web_create/header" element={<Header/>}/>
                   <Route path="/web_create/contact" element={<Contact/>}/>
-                  <Route path="/web_create/product" element={<Product/>}/>
+                  <Route path="/web_create/product2" element={<Product/>}/>
               </Routes>
           </Router>
       </div>
