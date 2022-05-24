@@ -41,10 +41,10 @@ export default function Home() {
                         Pellentesque a pretium tellus.
                     </h3>
                     <button>
-                        <a href="/products">Click Me!</a>
+                        <a href="https://ilovegreeny.github.io/web_create/products">Click Me!</a>
                     </button>
                     <button className="red-btn">
-                        <a href="/products">Learn More!</a>
+                        <a href="https://ilovegreeny.github.io/web_create/products">Learn More!</a>
                     </button>
                 </div>
             </div>

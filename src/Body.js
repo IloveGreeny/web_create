@@ -18,7 +18,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/products">
                             More Info
                         </a>
                     </button>
@@ -40,7 +40,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/products">
                             More Info
                         </a>
                     </button>
@@ -62,7 +62,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>
@@ -84,7 +84,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>
@@ -106,7 +106,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>
@@ -127,7 +127,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>
