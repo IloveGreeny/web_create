@@ -1,6 +1,7 @@
 import Header from "./Head";
 import Footer from "./Footer";
 import Products from "./Products";
+import Body from "./Body";
 
 export default function Product() {
     return (

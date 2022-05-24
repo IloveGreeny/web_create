@@ -2,7 +2,7 @@ import "./Map.css"
 
 export default function Products() {
      return (
-            <div>
+         <div>
                 <div className="contact-in">
                     <div className="contact-map">
                         <img
