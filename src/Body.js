@@ -1,4 +1,5 @@
 import "./Body.css"
+import {Link} from "react-router-dom";
 
 export default function Body() {
     return(
@@ -18,9 +19,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                     <br />
                 </figcaption>
@@ -40,9 +41,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                     <br />
                 </figcaption>
@@ -62,9 +63,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                     <br />
                 </figcaption>
@@ -84,9 +85,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                 <br />
                 </figcaption>
@@ -106,9 +107,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                     <br />
                 </figcaption>
@@ -127,9 +128,9 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="/web_create/product2">
+                        <Link to="/web_create/product2">
                             More Info
-                        </a>
+                        </Link>
                     </button>
                     <br />
                 </figcaption>

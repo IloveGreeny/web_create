@@ -1,4 +1,5 @@
 import "./Map.css"
+import {Link} from "react-router-dom";
 
 export default function Home() {
     return (
@@ -41,10 +42,10 @@ export default function Home() {
                         Pellentesque a pretium tellus.
                     </h3>
                     <button>
-                        <a href="/web_create/product2">Click Me!</a>
+                        <Link to="/web_create/product2">Click Me!</Link>
                     </button>
                     <button className="red-btn">
-                        <a href="web_create/product2">Learn More!</a>
+                        <Link to="web_create/product2">Learn More!</Link>
                     </button>
                 </div>
             </div>
