@@ -12,7 +12,7 @@ export default function Header() {
                 <Link to="/web_create">Home Page</Link>
                 <Link to="/web_create/products">Products</Link>
                 <Link to="/web_create/contact">Contact</Link>
-                <Link to="/web_create">Page</Link>
+
             </div>
         </div>
     )
