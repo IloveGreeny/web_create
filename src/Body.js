@@ -18,7 +18,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="https://ilovegreeny.github.io/web_create/products">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>
@@ -40,7 +40,7 @@ export default function Body() {
                     <br/>
                     <br/>
                     <button>
-                        <a href="https://ilovegreeny.github.io/web_create/products">
+                        <a href="https://ilovegreeny.github.io/web_create/product">
                             More Info
                         </a>
                     </button>

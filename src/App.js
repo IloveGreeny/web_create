@@ -19,7 +19,7 @@ export default function App() {
                   <Link to="header"></Link>
                   <Link to="contact"></Link>
                   <Link to="products"></Link>
-                  <Link to="product"></Link>
+                  <Link to="web_create/product"></Link>
               </nav>
               <Routes>
                   <Route path="/web_create/products" element={<Main/>}/>
