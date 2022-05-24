@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700");
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 16px;
+  padding: 3rem 1rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  left: 0;
+  width: 100%;
+  top: 0;
+  background-image: url("https://blog.americanexpedition.us/wp-content/uploads/2018/11/grand-teton-national-park-resized.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  font-weight: normal;
+}
+h1 {
+  margin: 0 0 4rem;
+  text-align: center;
+  font-size: 1.6em;
+  color: #bd98db;
+}
+.wrap-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  width: 32%;
+  max-width: 100%;
+  margin: 0 0 4rem;
+  box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.25);
+  background-color: #D5BEE8;
+}
+.card .wrap-image {
+  position: relative;
+}
+.card .wrap-image img {
+  width: 100%;
+  height: auto;
+}
+.card .wrap-image svg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+}
+.card .wrap-image svg polygon, .card .wrap-image svg path {
+  fill: #D5BEE8;
+  stroke: #D5BEE8;
+}
+.card:nth-child(4) .wrap-image svg path {
+  stroke-width: 3px;
+}
+.card:nth-child(5) .wrap-image svg path {
+  stroke-width: 4px;
+}
+.card:nth-child(6) .wrap-image svg path {
+  stroke-width: 6px;
+}
+.card .contents {
+  padding: 1rem;
+}
+.card .contents h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.125em;
+  color: #fff;
+}
+.card .contents .text {
+  color: rgba(0, 0, 0, 0.5);
+  line-height: 1.6;
+  font-size: 0.9em;
+}
+@media (max-width: 768px) {
+  .card {
+    width: 49%;
+    margin-bottom: 3rem;
+  }
+}
+@media (max-width: 480px) {
+  .card {
+    width: 100%;
+    margin-bottom: 3rem;
+  }
+}
+
+
+.card-border {
+  background-color: #fff;
+  border: solid 50px white;
+}
+
+
+.header {
+  overflow: hidden;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header-right {
+  float: right;
+}
+
+.foot {
+  background: white;
+  border: solid 20px white;
+}
