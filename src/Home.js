@@ -45,7 +45,7 @@ export default function Home() {
                         <Link to="/web_create/product2">Click Me!</Link>
                     </button>
                     <button className="red-btn">
-                        <Link to="web_create/product2">Learn More!</Link>
+                        <Link to="/web_create/product2">Learn More!</Link>
                     </button>
                 </div>
             </div>
